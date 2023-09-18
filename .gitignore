@@ -1,2 +1,5 @@
-nodemodules/
+# Ignoriere den node_modules-Ordner
+node_modules/
+
+# Ignoriere das Verzeichnis m450-amazona/
 m450-amazona/
